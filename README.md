@@ -14,8 +14,8 @@ make && ./uno
 vous pouvez consulter le site [www.regles-de-jeux.com](https://www.regles-de-jeux.com/regle-du-uno/) pour savoir les règle du jeu
 
 ### Screenshots
-![](Capture.PNG)
-![](Capture1.PNG)
+![](Capture.png)
+![](Capture1.png)
 
 ## Note
 Ceci est un projet collectif fait par 4 personnes.
